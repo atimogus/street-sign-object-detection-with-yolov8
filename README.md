@@ -1,10 +1,10 @@
 # street-sign-object-detection-with-yolov8
 Street sign object detection with yolov8
 
-Dataset used in this practice is from [kahttps://www.kaggle.com/ggle](https://www.kaggle.com/)
+Dataset used in this practice is from [https://www.kaggle.com/](https://www.kaggle.com/)
 
-Step 1: Using a pretrained model and training it on a custom dataset (street signs) - transfer learning in Google Colab (ime datoteke)
-Step 2: Downloading weights from Google Colab and importing them into a local Jupyter notebook (ime datoteke)
+Step 1: Using a pretrained model and training it on a custom dataset (street signs) - transfer learning in Google Colab
+Step 2: Downloading weights from Google Colab and importing them into a local Jupyter notebook
 Step 3: Testing our model in Jupyter notebook
 
 cunfusion matrix: 
